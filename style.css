@@ -64,6 +64,7 @@ main {
 }
 
 article {
+  margin-top: 20px;
   width: 40%;
   background-color: #333;
   padding: 10px;
